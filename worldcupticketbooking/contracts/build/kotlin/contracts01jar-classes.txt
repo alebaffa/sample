@@ -1,0 +1,1 @@
+C:\Users\is96869\Desktop\corda\samples-kotlin\Accounts\worldcupticketbooking\contracts\build\classes\kotlin\main\com\t20worldcup\contracts\T20CricketTicketContract.class;C:\Users\is96869\Desktop\corda\samples-kotlin\Accounts\worldcupticketbooking\contracts\build\classes\kotlin\main\com\t20worldcup\states\T20CricketTicketState.class
